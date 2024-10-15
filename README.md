@@ -14,7 +14,6 @@ Berikut adalah diagram alur kerja dari task-task utama dalam sistem ini:
 Foto Hardware
 Berikut adalah foto perangkat keras yang digunakan dalam proyek ini, yang mencakup STM32 dan dua tombol fisik:
 
-![Foto Hardware](link_ke_foto_hardware)
 ![WhatsApp Image 2024-10-15 at 19 01 55](https://github.com/user-attachments/assets/699aa046-6a6a-4831-8c6d-24529735212c)
 
 Demo Video/GIF
