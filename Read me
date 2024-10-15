@@ -15,7 +15,7 @@ Foto Hardware
 Berikut adalah foto perangkat keras yang digunakan dalam proyek ini, yang mencakup STM32 dan dua tombol fisik:
 
 ![Foto Hardware](link_ke_foto_hardware)
-https://github.com/Laodeadil/RTOSPRAK1.1/blob/master/WhatsApp%20Image%202024-10-15%20at%2019.01.55.jpeg
+
 Demo Video/GIF
 Berikut adalah demo video proyek ini yang menunjukkan cara kerja sistem dalam membaca nilai tegangan dan menampilkannya melalui UART, serta bagaimana pengguna dapat berinteraksi melalui tombol.
 
