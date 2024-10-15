@@ -20,8 +20,6 @@ Berikut adalah foto perangkat keras yang digunakan dalam proyek ini, yang mencak
 Demo Video/GIF
 Berikut adalah demo video proyek ini yang menunjukkan cara kerja sistem dalam membaca nilai tegangan dan menampilkannya melalui UART, serta bagaimana pengguna dapat berinteraksi melalui tombol.
 
-![Demo Video](link_ke_video)
-
 
 https://github.com/user-attachments/assets/249136f9-7f3c-4e76-a981-d7c4db7aa285
 
