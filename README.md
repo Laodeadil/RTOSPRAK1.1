@@ -22,6 +22,10 @@ Berikut adalah demo video proyek ini yang menunjukkan cara kerja sistem dalam me
 
 ![Demo Video](link_ke_video)
 
+
+https://github.com/user-attachments/assets/249136f9-7f3c-4e76-a981-d7c4db7aa285
+
+
 Daftar Perangkat Keras
 - STM32 Microcontroller: STM32F103C8T6
 - Tombol: Dua tombol fisik
